@@ -22,3 +22,21 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 ---
 
 
+## ⚙️ Usage
+*   **Start**: Just turn on your Aternos server. The bot will join automatically.
+*   **Status**: Visit the Render URL to see a status dashboard.
+*   **Chat**: The bot logs chat to the console.
+
+---
+
+## ⚠️ Disclaimer
+This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your own risk. Misuse may violate platform terms of service. This bot does not bypass Aternos queue limits; it only keeps the server active once it is online.
+
+---
+
+## ❤️ Credits
+* DbGaming (Discord: DB 12 ARMY) — Original creator & idea. (The GOAT 🐐)
+* Mr.Juice (Discord: Mr.Juice3046) — Updates, Guide, & Maintenance.
+* Edited By DB GAMING 420.
+
+**License**: MIT License
