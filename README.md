@@ -1,1 +1,1 @@
-# afk-bot-aternos
+# Aternos 24/7 Hosting Bot
