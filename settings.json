@@ -1,13 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DbgamingLive",
+    "username": "Adminbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OHONI2.aternos.me
-",
+    "ip": "OHONI2.aternos.me",
     "port": 51077,
     "version": "26.2"
   },
@@ -31,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
+        "I'm a regular player"
       ]
     },
     "chat-log": true,
@@ -76,8 +75,7 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "enabled": false,
     "events": {
       "connect": true,
       "disconnect": true,
